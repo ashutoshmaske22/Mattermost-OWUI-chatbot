@@ -89,7 +89,7 @@ The bot maintains a persistent WebSocket connection to Mattermost. When a messag
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mattermost-owui-bot.git
+git clone https://github.com/ashutoshmaske22/Matetrmost-OWUI-chatbot.git
 cd mattermost-owui-bot
 pip install -r requirements.txt
 ```
@@ -293,4 +293,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-Built by [Ashutosh Maske](https://github.com/YOUR_USERNAME) · March 2026
+Built by [Ashutosh Maske](https://github.com/ashutoshmaske22) · March 2026
